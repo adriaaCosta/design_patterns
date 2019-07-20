@@ -1,4 +1,4 @@
 # design_patterns
 examples design patterns
 
-executed in Bluej
+executed in BlueJ
