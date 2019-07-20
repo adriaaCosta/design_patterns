@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PizzaProduct
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ PizzaProduct\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=massa
+comment1.target=void\ setMassa(java.lang.String)
+comment2.params=molho
+comment2.target=void\ setMolho(java.lang.String)
+comment3.params=cobertura
+comment3.target=void\ setCobertura(java.lang.String)
+numComments=4

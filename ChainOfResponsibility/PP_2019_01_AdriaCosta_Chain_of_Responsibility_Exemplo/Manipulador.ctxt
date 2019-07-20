@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=manipulador
+comment0.target=void\ setManipulador(Manipulador)
+comment1.params=
+comment1.target=java.lang.String\ getManipuladorNome()
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TextoArquivoManipulador()
+comment1.params=manipulador
+comment1.target=void\ setManipulador(Manipulador)
+comment2.params=arquivo
+comment2.target=void\ processamento(Arquivo)
+comment3.params=
+comment3.target=java.lang.String\ getManipuladorNome()
+numComments=4

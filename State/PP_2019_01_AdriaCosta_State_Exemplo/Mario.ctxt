@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Mario
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Mario\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Mario()
+comment2.params=
+comment2.target=void\ pegarCogumelo()
+comment3.params=
+comment3.target=void\ pegarFlor()
+comment4.params=
+comment4.target=void\ pegarPena()
+comment5.params=
+comment5.target=void\ levarDano()
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Radio
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Radio\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=boolean\ isAtivado()
+comment2.params=
+comment2.target=void\ ativado()
+comment3.params=
+comment3.target=void\ desativado()
+comment4.params=
+comment4.target=int\ getVolume()
+comment5.params=volume
+comment5.target=void\ setVolume(int)
+comment6.params=
+comment6.target=int\ getCanal()
+comment7.params=canal
+comment7.target=void\ setCanal(int)
+comment8.params=
+comment8.target=void\ imprimaStatus()
+numComments=9

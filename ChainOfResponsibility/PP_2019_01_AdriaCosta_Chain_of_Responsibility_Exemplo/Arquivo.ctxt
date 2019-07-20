@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nomeArq\ tipoArq\ caminhoArq
+comment0.target=Arquivo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getNomeArq()
+comment2.params=
+comment2.target=java.lang.String\ getTipoArq()
+comment3.params=
+comment3.target=java.lang.String\ getCaminhoArq()
+numComments=4
